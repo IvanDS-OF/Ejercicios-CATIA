@@ -12,7 +12,7 @@ En la carpeta **Ejercicio1** podemos encontrar un ejercicio que realicé relacio
 
 Podemos encontrar 3 carpetas. En la carpeta **Piezas** podemos encontrar las piezas sueltas que se necesitan para realizar el concepto de la práctica. En la Carpeta **Ensamble** podemos encontrar el ensamble que dentro de CATIA podemos encontrar igualmente el archivo de la cinemática creado con el módulo de Kinematics. 
 
-Podemos ver un video de la simulación en {el siguiente link}(google.com), así como podemos ver igualmente más videos de ejercicios que se pudieron realizar en mi estancia en la escuela y proyectos personales. 
+Podemos ver un video de la simulación en {el siguiente link}(https://www.youtube.com/watch?v=7QClvkoYQ5Q&ab_channel=IvanDuran), así como podemos ver igualmente más videos de ejercicios que se pudieron realizar en mi estancia en la escuela y proyectos personales. 
 
 
 
